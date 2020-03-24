@@ -1,0 +1,8 @@
+/venv/
+/SCRAPY/
+
+**/__pycache__/
+**/full/
+**/thumbs/
+**/.idea/
+**/temporary.py
