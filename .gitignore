@@ -1,8 +1,8 @@
-/venv/
-/SCRAPY/
+venv/
+SCRAPY/
 
-**/__pycache__/
-**/full/
-**/thumbs/
-**/.idea/
-**/temporary.py
+__pycache__/
+full/
+thumbs/
+.idea/
+temporary.py
